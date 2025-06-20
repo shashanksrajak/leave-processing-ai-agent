@@ -4,10 +4,6 @@ An intelligent, full-stack leave processing system powered by AI that automates 
 
 ![Leave Agent Workflow](docs/leave-agent.png)
 
-## Demo Video
-
-[Watch Demo Video on Youtube](https://www.youtube.com/watch?v=AxBa5KolX-4)
-
 ## 🌟 Features
 
 ### 🧠 AI-Powered Intelligence
